@@ -1,5 +1,5 @@
-public class Adder { 
-  public int add(int num1,int num2) { 
-     return num1+num2;
-  }
+public class Adder {
+    public long add(long a, long b) {
+        return a + b;
+    }
 }
