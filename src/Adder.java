@@ -1,5 +1,5 @@
-public class Adder { 
-  public int add(int num1,int num2) { 
-     return num1+num2;
-  }
+public class Adder {
+    public int add(int a, int b, int c) {
+        return a + b + c;
+    }
 }
